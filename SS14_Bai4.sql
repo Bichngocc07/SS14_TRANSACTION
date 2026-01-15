@@ -4,7 +4,7 @@ CREATE DATABASE CourseEnrollmentDB;
 USE CourseEnrollmentDB;
 
 -- Bảng sinh viên
-DROP TABLE IF EXISTS students;
+DROP TABLE  students;
 CREATE TABLE students (
     student_id INT AUTO_INCREMENT PRIMARY KEY,
     student_name VARCHAR(50) NOT NULL
