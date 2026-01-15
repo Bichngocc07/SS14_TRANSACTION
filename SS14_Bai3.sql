@@ -1,10 +1,3 @@
-/* =====================================================
-   BASIC TRANSACTION – PAYROLL MANAGEMENT (CB3)
-   ===================================================== */
-
--- =========================
--- 1. TẠO DATABASE & TABLE
--- =========================
 DROP DATABASE IF EXISTS PayrollDB;
 CREATE DATABASE PayrollDB;
 USE PayrollDB;
